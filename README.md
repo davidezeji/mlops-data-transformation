@@ -1,2 +1,2 @@
 # mlops-data-transformation
-Data transformation of datasets using Pandas, Polaris (small to medium), Apache Spark (large) and Kafka (streaming)
+Data transformation of small to medium datasets using Pandas & Polaris, large datasets using Apache Spark, and streaming data using Apache Kafka.
