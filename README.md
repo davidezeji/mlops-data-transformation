@@ -6,8 +6,6 @@ In this folder shows an example of using Pandas to transform/clean a small datas
 ## Project Structure
 ```
 small-to-medium-data-transformation-pandas/
-├── README.md                 # This file
-├── Pandas_cheatsheet.md      # Comprehensive Pandas operations guide
 ├── mockdata.py              # Script for generating mock data
 ├── mock_data.csv            # Original dataset with raw data
 ├── data-exploration.py      # Initial data exploration script
